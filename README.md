@@ -1,1 +1,3 @@
 # PrivacyFocusedMessenger
+
+One of the most important pieces of technology in our generation is messaging. The drawback with modern messengers is that users need a phone number tied to their name and which has their personal information. our application targets users who cannot carry their personal phone with them at all time or if their battery died and they are in an emergency situation and need to contact their family and friends they cannot use their account since they need their number and one-time password. Our application tackles the problem by using a simple login method such as email and password so users can login to their accounts at any time and wherever they want.
